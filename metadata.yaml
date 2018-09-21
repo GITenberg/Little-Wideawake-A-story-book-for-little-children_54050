@@ -1,0 +1,32 @@
+_repo: Little-Wideawake-A-story-book-for-little-children_54050
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barker, Sale, Mrs.
+    aliases:
+    - Barker, Lucy Davies
+    - Davies-Drummond, Lucy
+    - Villiers, Lucy
+    - Barker, Lucy D. Sale
+    - Sale-Barker, Lucy Elizabeth Drummond Davies
+    - Davies, Lucy Elizabeth Drummond
+    birthdate: 1841
+    deathdate: 1892
+    gutenberg_agent_id: '47681'
+    url: http://www.gutenberg.org/2009/agents/47681
+description: ''
+gutenberg_issued: '2017-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- GITenberg
+title: 'Little Wideawake: A story book for little children'
+url: http://www.gutenberg.org/ebooks/54050
